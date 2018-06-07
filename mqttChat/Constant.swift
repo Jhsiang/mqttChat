@@ -9,7 +9,7 @@
 import Foundation
 
 // Server
-let MQTT_CHAT_AES128_KEY = "0309051002456221710223"
+let MQTT_CHAT_AES128_KEY = "0309051002456221"
 
 // Mqtt channel
 let LOGIN_CHANNEL = "jqpw54peo3r60EFsweE33535ll"
